@@ -1,6 +1,6 @@
 # Hi, I'm Aren Talb
 
-### Software Developer | Backend & Frontend Development
+### Software Developer
 
 I'm a Software Developer focused on building scalable backend systems, modern web applications, and reliable software solutions.
 
